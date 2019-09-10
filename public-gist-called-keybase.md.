@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am milmil-blak on github.
+  * I am milmil17 (https://keybase.io/milmil17) on keybase.
+  * I have a public key ASCZyrbjnKQy1eB1TaBqYLAS0CJgCqYhOur0vOmjDtKzYAo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012099cab6e39ca432d5e0754da06a60b012d022600aa6213aeaf4bce9a30ed2b3600a",
+      "host": "keybase.io",
+      "kid": "012099cab6e39ca432d5e0754da06a60b012d022600aa6213aeaf4bce9a30ed2b3600a",
+      "uid": "3dae54de4df5036b5b9ea187d18c5319",
+      "username": "milmil17"
+    },
+    "merkle_root": {
+      "ctime": 1568151258,
+      "hash": "370028a4d70a1781845a5a441ff00c3d38d44f4c5f68ccb0acabfbc24accbde92b20611d07673c96a3e9b2344803f52e425f06f7c837279f8f7d5149156de885",
+      "hash_meta": "da00f3480d38806ceb3d95c8ac1775de5309dd3e0e3987f5af0f9b2b8cc8d1bc",
+      "seqno": 6526091
+    },
+    "service": {
+      "entropy": "nJv5McVd+hfBp5EZYJZ+NJQw",
+      "name": "github",
+      "username": "milmil-blak"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.0"
+  },
+  "ctime": 1568151263,
+  "expire_in": 504576000,
+  "prev": "ca4ca705a8045032031eb0224c2124c5d09ff4ed40f9c8df9ef3f09cf9d56912",
+  "seqno": 10,
+  "tag": "signature"
+}
+```
+
+with the key [ASCZyrbjnKQy1eB1TaBqYLAS0CJgCqYhOur0vOmjDtKzYAo](https://keybase.io/milmil17), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgmcq245ykMtXgdU2gamCwEtAiYAqmITrq9Lzpow7Ss2AKp3BheWxvYWTESpcCCsQgykynBagEUDIDHrAiTCEkxdCf9O1A+cjfnvPwnPnVaRLEIA8AWPk8kId0hkytkewMAMo1DnIrd147DgjgQNjyN/c5AgHCo3NpZ8RAC0l+GuBl6X5nIBSIP2J6uQLHEY2lTky9hjHSz1jz4/tU5wRzWKJbdnGCVxyrgLsfQExMbMz1dserAZNU7tLUC6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIKoMZdnagZT8D7YN7Z3c2zODcE8bqTfrsfPb+AzsZ/BSo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/milmil17
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id milmil17
+```
